@@ -44,7 +44,7 @@ export const APPS: AppEntry[] = [
     status: "in-progress",
     href: null,
     illustration: "trellis",
-    category: "CRM · Tasks · Reminders",
+    category: "Contact Organiser and Reminders",
   },
 ];
 

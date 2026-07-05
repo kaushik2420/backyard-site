@@ -37,7 +37,7 @@ export const APPS: AppEntry[] = [
     slug: "trellis",
     name: "Trellis",
     shortPitch:
-      "A calm CRM for solopreneurs — contacts, tasks, and reminders that actually get followed up on.",
+      "A calm contact organiser for solopreneurs — contacts, tasks, and reminders that actually get followed up on.",
     description:
       "Most solopreneurs lose deals not because they don't have leads, but because the follow-up slips. Trellis is a quiet, well-mannered system that remembers every contact, surfaces the right person to ping today, and turns one-line notes into next actions. No pipeline theatre. Just the next nudge, on time.",
     audience: "For solopreneurs and small teams in services + consulting.",
